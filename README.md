@@ -1,5 +1,5 @@
 ## Utilities
-A bunch of useful utilities/functions packed into a single class. 
+A bunch of useful utilities/functions packed into a single file. 
 
 ## Features
 - ⚡ Fast
