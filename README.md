@@ -14,7 +14,7 @@ A bunch of useful utilities/functions packed into a single class.
 ## Usage
 - Clone the repository. 
 ```python
-git clone https://github.com/isferhossain/utilities-py
+git clone https://github.com/isferhossain/utilities-py.git
 ```
 - Copy `utils.py` and paste it in your project folder.
 - Import `utils.py` in your file. 
